@@ -9,8 +9,8 @@ This is the part of the final project for Advances in Data Science and Architect
 5. Visualized the results using Bar-plot and Box-plot charts.
 
 # Code Implementations
-[R File](https://github.com/agrawal-priyank/Text-Mining-TripAdvisor-Reviews_DataScience-Project/blob/master/final_project_text_mining_sentiment_analysis.R)
-[Data](https://github.com/agrawal-priyank/Text-Mining-TripAdvisor-Reviews_DataScience-Project/tree/master/Data)
+1. [R File](https://github.com/agrawal-priyank/Text-Mining-TripAdvisor-Reviews_DataScience-Project/blob/master/final_project_text_mining_sentiment_analysis.R)
+2. [Data](https://github.com/agrawal-priyank/Text-Mining-TripAdvisor-Reviews_DataScience-Project/tree/master/Data)
 
 # Technologies
 R
