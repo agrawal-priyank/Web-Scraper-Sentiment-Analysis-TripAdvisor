@@ -12,6 +12,11 @@
 ## Data
 [Data](https://github.com/agrawal-priyank/Text-Mining-TripAdvisor-Reviews_DataScience-Project/tree/master/Data)
 
+## Visualizations
+1. ![Sentiment score of first hundred reviews](http://rpubs.com/agrawalpriyank/sentiment-score-reviews?raw=true)
+2. Positive and negative words in a single review
+
+
 ## Technologies
 R
 
