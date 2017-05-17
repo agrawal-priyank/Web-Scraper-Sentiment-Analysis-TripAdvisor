@@ -7,10 +7,10 @@
 4. Calculated the sentiment score of each review in the corpus by comparing it with positive and negative lexicon and the overall sentiment score of the hotel.
 
 ### Code
-⋅⋅* [R File](https://github.com/agrawal-priyank/Web-Scraper-Sentiment-Analysis-TripAdvisor/blob/master/web-scraping-sentiment-analysis-trip-advisor.R)
+* [R File](https://github.com/agrawal-priyank/Web-Scraper-Sentiment-Analysis-TripAdvisor/blob/master/web-scraping-sentiment-analysis-trip-advisor.R)
 
 ### Data
-⋅⋅* [Data](https://github.com/agrawal-priyank/Web-Scraper-Sentiment-Analysis-TripAdvisor/tree/master/data)
+* [Data](https://github.com/agrawal-priyank/Web-Scraper-Sentiment-Analysis-TripAdvisor/tree/master/data)
 
 ### Visualizations
 1. [Sentiment score of first hundred reviews](http://rpubs.com/agrawalpriyank/sentiment-score-reviews)
