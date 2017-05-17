@@ -7,10 +7,10 @@
 4. Calculated the sentiment score of each review in the corpus by comparing it with positive and negative lexicon and the overall sentiment score of the hotel.
 
 ## Code
-*[R File](https://github.com/agrawal-priyank/Text-Mining-TripAdvisor-Reviews_DataScience-Project/blob/master/final_project_text_mining_sentiment_analysis.R)
+[R File](https://github.com/agrawal-priyank/Text-Mining-TripAdvisor-Reviews_DataScience-Project/blob/master/final_project_text_mining_sentiment_analysis.R)
 
 ## Data
-*[Data](https://github.com/agrawal-priyank/Text-Mining-TripAdvisor-Reviews_DataScience-Project/tree/master/Data)
+[Data](https://github.com/agrawal-priyank/Text-Mining-TripAdvisor-Reviews_DataScience-Project/tree/master/Data)
 
 ## Technologies
 R
