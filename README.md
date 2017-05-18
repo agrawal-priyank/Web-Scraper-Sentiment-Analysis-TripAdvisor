@@ -18,3 +18,6 @@
 3. [Positive word count in first hundred reviews](http://rpubs.com/agrawalpriyank/positive-count-reviews)
 4. [Negative word count in first hunderd reviews](http://rpubs.com/agrawalpriyank/negative-count-reviews)
 5. [Overall sentiment score of JW Marriot hotel](http://rpubs.com/agrawalpriyank/sentiment-analysis-jw-marriot)
+
+### Programming Language
+R
