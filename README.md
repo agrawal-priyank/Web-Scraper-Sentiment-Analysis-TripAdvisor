@@ -12,7 +12,7 @@
 ### Data
 * [Data](https://github.com/agrawal-priyank/Web-Scraper-Sentiment-Analysis-TripAdvisor/tree/master/data)
 
-### Visualizations
+### Data Visualization
 1. [Sentiment score of first hundred reviews](http://rpubs.com/agrawalpriyank/sentiment-score-reviews)
 2. [Positive and negative words in a single review](http://rpubs.com/agrawalpriyank/positive-negative-count-review)
 3. [Positive word count in first hundred reviews](http://rpubs.com/agrawalpriyank/positive-count-reviews)
