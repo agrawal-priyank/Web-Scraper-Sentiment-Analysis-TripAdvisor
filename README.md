@@ -1,10 +1,11 @@
-## Web-Scraping and Sentiment Analysis of JW Marriot Hotel - TripAdvisor
+## Web-Scraping and Sentiment Analysis of JW Marriot Hotel Reviews
 
 ### Description
-1. Implemented Web Scraping technique to fetch reviews in real-time of JW Marriot hotel from [TripAdvisor](https://www.tripadvisor.com/).
-2. Performed data pre-processing of reviews by removing stop words, punctuation, special characters, numbers and white-spaces.
-3. Performed tokenization, stemming and built a corpus (of documents) of all the reviews.
-4. Calculated the sentiment score of each review in the corpus by comparing it with positive and negative lexicon and the overall sentiment score of the hotel.
+* Implemented a web scraper to fetch live hotel reviews from TripAdvisor website.
+* Conducted data pre-processing and cleaning by removing stop words, punctuation, special characters, numbers, and white-spaces from reviews.
+* Performed tokenization and stemming of reviews, and built a corpus out of it.
+* Calculated the sentiment score of each review by comparing it's tokens with positive and negative lexicon and the overall sentiment score of the hotel depending on the number of positive and negative reviews it received.
+* Visualized the results using bar-plot and box-plot charts.
 
 ### Code
 * [R File](https://github.com/agrawal-priyank/Web-Scraper-Sentiment-Analysis-TripAdvisor/blob/master/web-scraping-sentiment-analysis-trip-advisor.R)
