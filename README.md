@@ -22,3 +22,6 @@
 
 ### Programming Language
 R
+
+### Tools/IDE 
+RStudio
